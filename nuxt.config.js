@@ -31,7 +31,13 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '@nuxtjs/google-fonts',
   ],
+  googleFonts: {
+    families: {
+      Roboto: [100, 200, 300, 400, 500, 600, 700]
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

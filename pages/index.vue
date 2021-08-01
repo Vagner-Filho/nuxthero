@@ -2,9 +2,8 @@
   <div class="kids-future">
     <div class="container">
       <div class="row">
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-5 mt-5">
           <Hero />
-          <NuxtLogo />
         </div>
       </div>
     </div>
