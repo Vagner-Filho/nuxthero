@@ -5,6 +5,9 @@
         <div class="col-12 col-lg-5 mt-5">
           <Hero />
         </div>
+        <div class="col-12 col-lg-7 mt-5">
+          <RightSide />
+        </div>
       </div>
     </div>
   </div>
