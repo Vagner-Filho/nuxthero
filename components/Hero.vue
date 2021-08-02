@@ -1,5 +1,5 @@
 <template>
-    <section class="hero container mt-3">
+    <section class="hero mt-3">
         <h5>
             Mutual Funds
         </h5>
